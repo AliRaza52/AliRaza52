@@ -2,7 +2,7 @@
 - 👀 I’m interested in JS libraries
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on JS
-- 📫 How to reach me frdev.52brandjaws@gmail.com
+- 📫 How to reach me frdev52.brandjaws@gmail.com
 
 <!---
 AliRaza52/AliRaza52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
